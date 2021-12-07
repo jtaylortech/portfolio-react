@@ -1,0 +1,171 @@
+{
+  "main": {
+    "name": "Jarred Taylor",
+    "occupation": " Full Stack Software Engineer",
+    "description": " currently employed by ",
+    "employer": "freelance web developer",
+    "jobDescription": "create various web applications for clients across multiple sectors",
+    "image": "profile_pic.jpg",
+    "bio": "Currently serving in the United States Air Force, I am also working as a Freelance Web Developer while also pursuing a degree in Software Engineering. As a developer, I am comfortable with Python, JavaScript, ReactJS & HTML/CSS with an expanding comprehension of Java & PHP. Specializing in web development, I am also growing my knowledge in machine learning & data analytics as I plan to transition into this sector of Software Engineering upon my departure from the military.",
+    "bioCont": "In addition to my work & studies, I love fitness, traveling, reading, and I also have a new found passion for writing which you can read more about in my blog.",
+    "contactmessage": "Do you have a project for me? Think I'd be a great fit for your team? I'd love to hear from you, contact me via email or by using the form below if you'd like to get in contact with me.",
+    "email": "jarrede20@gmail.com",
+    "phone": "(314) 398-3570",
+    "address": {
+      "street": "Pacific Avenue",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": ""
+    },
+    "website": "http://www.jtaylor.app",
+    "resumedownload": "https://drive.google.com/file/d/1xd0YZYsTFGnviztI6_vIHPUwdQnuTQzJ/view",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jarred-taylor-032065177/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/jtaylortech",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "stack-overflow",
+        "url": "https://stackoverflow.com/users/13253808/jtaylortech?tab=profile",
+        "className": "fa fa-stack-overflow"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/jtaylor.io/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/JTaylorTech_",
+        "className": "fa fa-twitter"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Starting my journey off as a web developer and transitioning into a machine learning engineer, I have organically become comfortable with various programming languages. I enjoy the process of learning new languages, here are the ones that I enjoy to work with the most.",
+    "education": [
+      {
+        "school": "Arizona State University",
+        "degree": "Bachelor of Science , Software Engineering",
+        "graduated": "Expected December 2023",
+        "description": "While pursuing this degree, I have expanded my previous knowledge in programming languages, how to build code, and software development. I am currently learning how to create complex programming solutions, create algorithms and data structures, as well as the foundations of cyber security concepts. With this degree path being as project centric as it is, I have completed various software engineering projects which helped me gain hands-on experience and develop teamwork skills in the software engineering community."
+      },
+      {
+        "school": "Minnesota State University - Moorhead",
+        "degree": "Bachelor of Business Administration",
+        "graduated": "August 2019 - May 2020",
+        "description": "I had the privilege of attending this university by way of a Football Scholarship to pursue my BBA. Here, I studied International Business and gained the foundational learning of business, specifically in economics, marketing, and accounting. After a full year, and some deep self-reflection, I decided to hang up the cleats and enlist in the United States Air Force."
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelance Web Developer",
+        "title": "Full Stack Software Engineer",
+        "years": "March 2020 - Present",
+        "description": "I create web applications for various clients ranging from logistical companies, e-commerce platforms, tech startups, informative web pages, blogs, plus more. As a web developer, I specialize in JavaScript, ReactJS, HTML, & CSS."
+      },
+      {
+        "company": "United States Air Force",
+        "title": "Airborne Mission Systems Operator",
+        "years": "Nov 2019 - Present",
+        "description": "Responsible for operating the radar, communications, and electronic equipment. Contributing to the management of the battle space during tactical and strategic missions by coordinating all of the necessary data received on airborne command centers."
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "description": "JS was the first programming language I learned by way of my mentor. We began this journey by understanding the foundations of VanillaJS.",
+        "image": "javascript.png"
+      },
+      {
+        "name": "ReactJs",
+        "description": "After having an understanding of JS, I began to transition to learning ReactJS for web development projects. This starting off rough but repetitions brought comforting rewards.",
+        "image": "react.jpg"
+      },
+      {
+        "name": "NodeJS",
+        "description": "Node JS is the server-side scripting language of I enjoy to use the most. The bulk of my experience with it has been in conjunction with ReactJS-based projects.",
+        "image": "node.jpg"
+      },
+      {
+        "name": "MongoDB",
+        "description": "The ease of use of MongoDB suits my needs the best in terms of databases and it has become beyond enjoyable to work with.",
+        "image": "mongo.jpg"
+      },
+      {
+        "name": "Python",
+        "description": "Once I realized I wanted to shift from web development to machine learning, I began learning it and I have fallen more in love with it every step along the way.",
+        "image": "python.png"
+      },
+      {
+        "name": "Java",
+        "description": "Java was the first programming language that I learned in college. With nearly all of my courses requiring programing with Java, it is the language I am most familiar with in terms of data-structure and algorithm programming.",
+        "image": "java.jpg"
+      },
+      {
+        "name": "Git",
+        "description": "I use Git for all of my projects so far. I have used Github to work on numerous projects with my mentor and have toyed around with contributing to Open Source Projects.",
+        "image": "git.jpg"
+      },
+      {
+        "name": "Netlify",
+        "description": "I use netlify as my hosting platform for most of my projects because of the free tier that fits all of my needs. The integration with Github promotes a simple web deployment which makes this technology very user friendly.",
+        "image": "netlify.png"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Michael Angel's Transportation",
+        "category": "Transportation company web app using ReactJS",
+        "image": "matranspo.png",
+        "url": "http://www.mikeangelstranspo.com"
+      },
+      {
+        "title": "Chi Dynamic",
+        "category": "Web app for a tech based start up",
+        "image": "chidynamic.png",
+        "url": "https://www.chidynamic.com/"
+      },
+      {
+        "title": "Natous",
+        "category": "Design heavy responsive mock web app for an outdoor touring company",
+        "image": "nature.png",
+        "url": "https://jtaylortech.github.io/nature-tours/"
+      },
+      {
+        "title": "Bankist",
+        "category": "Interactive mock web app for a banking company",
+        "image": "bankist.png",
+        "url": "https://jtaylortech.github.io/bank/"
+      },
+      {
+        "title": "Numbers Game",
+        "category": "Interactive number guessing game using JavaScript",
+        "image": "numbers.png",
+        "url": "https://jtaylortech.github.io/numbers-game/"
+      },
+      {
+        "title": "Nexter Real Estate",
+        "category": "Sleek mock web app for a real estate brokerage company",
+        "image": "realestate.png",
+        "url": "https://jtaylortech.github.io/realestate-company"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Jarred was an absolute pleasure to work with! His communication skills were amazing and he made sure he understood exactly what I was asking for before beginning the project. Throughout the process, the communication never slowed down which ended up with me receiving an amazing website prior to the agreed deadline. HIGHLY recommend.",
+        "user": "Freelance Client, Malinda Williams"
+      }
+    ]
+  }
+}
