@@ -11,8 +11,7 @@ yarn start
 
 1. yarn build
 2. netlify deploy
-3. ./build
+3. ./build (isn't always necessary)
 4. netlify deploy --prod
 
-## I'm looking for work
-# personal-react
+## Actively Job Searching!
