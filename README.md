@@ -1,9 +1,9 @@
 ## Description
-This is my personal resume web app built with ReactJS. <a href="https://www.jtaylor.app">HERE.</a>
+This is my personal resume web app built using ReactJS. <a href="https://www.jtaylor.app">HERE.</a>
 
 ## To Run
-yarn
-yarn start
+- yarn
+- yarn start
 
 ## To Deploy
 - Make sure Netlify cli is globally installed 
@@ -14,4 +14,4 @@ yarn start
 3. ./build (isn't always necessary)
 4. netlify deploy --prod
 
-## Actively Job Searching!
+## I Am Actively Job Searching!
