@@ -11,7 +11,6 @@ This is my personal resume web app built using ReactJS. <a href="https://www.jta
 
 1. yarn build
 2. netlify deploy
-3. ./build (isn't always necessary)
 4. netlify deploy --prod
 
 ## I Am Actively Job Searching!
