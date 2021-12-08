@@ -31,6 +31,11 @@
         "className": "fa fa-github"
       },
       {
+        "name": "hashnode",
+        "url": "https://taylortech.app/",
+        "className": "fa fa-pencil"
+      },
+      {
         "name": "stack-overflow",
         "url": "https://stackoverflow.com/users/13253808/jtaylortech?tab=profile",
         "className": "fa fa-stack-overflow"
@@ -48,7 +53,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Starting my journey off as a web developer and transitioning into a machine learning engineer, I have organically become comfortable with various programming languages. I enjoy the process of learning new languages, here are the ones that I enjoy to work with the most.",
+    "skillmessage": "Beginning my journey as a web developer and now transitioning towards machine learning, I have organically become comfortable with various programming languages. Here are some of my favorites.",
     "education": [
       {
         "school": "Arizona State University",
