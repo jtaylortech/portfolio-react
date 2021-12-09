@@ -1,22 +1,44 @@
-.newline{
+.newline {
   white-space: pre-wrap;
 }
 
-#portfolio h1{
+#portfolio h1 {
   font-size: 2rem;
 }
 
-.feature-item{
+.feature-item {
   text-align: center;
-  margin-top:2.5em;
-  padding-left:2em;
-  padding-right:2em;
+  margin-top: 2.5em;
+  padding-left: 2em;
+  padding-right: 2em;
 }
 
-.center{
+.center {
   text-align: center;
 }
 
-.warning{
+.warning {
   color: red;
+}
+
+.mike-skills {
+  display: flex;
+}
+
+.mike-header {
+  display: flex;
+  justify-content: center;
+}
+.mike-skills section {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.mike-skills article {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+  flex: 1 1 25%;
 }
