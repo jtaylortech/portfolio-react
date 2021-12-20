@@ -18,7 +18,7 @@
       "zip": ""
     },
     "website": "http://www.jtaylor.app",
-    "resumedownload": "https://drive.google.com/file/d/1xd0YZYsTFGnviztI6_vIHPUwdQnuTQzJ/view",
+    "resumedownload": "https://drive.google.com/file/d/1bvOEDRBb9XFInFjWo2XClnjO3sd12wq_/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -56,14 +56,20 @@
     "skillmessage": "Beginning my journey as a web developer and now transitioning towards machine learning, I have organically become comfortable with various programming languages. Here are some of my favorites.",
     "education": [
       {
-        "school": "Arizona State University",
-        "degree": "Bachelor of Science , Software Engineering",
-        "graduated": "Expected December 2023",
+        "school":"University of Arizona - College of Applied Science & Technology",
+        "degree":"Bachelor of Applied Science in Applied Computing: Emphasis in Artificial Intelligence",
+        "graduated":"Expected Graduation of December 2023",
+        "description":"Knowing that I have a passion for machine learning, data analytics, and artificial intelligence, I felt the need to seek out a program that would help me gain more of a foundational understanding of these topics and challenge me to create technical solutions. Studying this degree, I am learning to use computation and technology as a tool to solve problems and design and build computer-based systems and digital artifacts. The emphasis in Artificial Intelligence focuses on AI algorithm development and applying AI to approach practical application problems."
+      },
+      {
+        "school": "Arizona State University - Ira A. Fulton Schools of Engineering",
+        "degree": "Bachelor of Science in Software Engineering",
+        "graduated": "May 2021 - December 2021",
         "description": "While pursuing this degree, I have expanded my previous knowledge in programming languages, how to build code, and software development. I am currently learning how to create complex programming solutions, create algorithms and data structures, as well as the foundations of cyber security concepts. With this degree path being as project centric as it is, I have completed various software engineering projects which helped me gain hands-on experience and develop teamwork skills in the software engineering community."
       },
       {
-        "school": "Minnesota State University - Moorhead",
-        "degree": "Bachelor of Business Administration",
+        "school": "Minnesota State University, Moorhead - Paseka School of Business",
+        "degree": "Bachelor of Business Administration in International Business",
         "graduated": "August 2019 - May 2020",
         "description": "I had the privilege of attending this university by way of a Football Scholarship to pursue my BBA. Here, I studied International Business and gained the foundational learning of business, specifically in economics, marketing, and accounting. After a full year, and some deep self-reflection, I decided to hang up the cleats and enlist in the United States Air Force."
       }
@@ -170,7 +176,12 @@
       {
         "text": "Jarred was an absolute pleasure to work with! His communication skills were amazing and he made sure he understood exactly what I was asking for before beginning the project. Throughout the process, the communication never slowed down which ended up with me receiving an amazing website prior to the agreed deadline. HIGHLY recommend.",
         "user": "Freelance Client, Malinda Williams"
+      },
+      {
+        "text":"I was looking for a way to move my online clothing store from just social media being housed on a website but I had no idea where to start. I told JT about what I was thinking and he handled it all from there. After providing 3 diverse templates for me to choose from, he immediately followed up with great work and letting me customize it along the way.",
+        "user": "Nathan Graham"
       }
+
     ]
   }
 }
