@@ -6,8 +6,9 @@
     "employer": "freelance web developer",
     "jobDescription": "create various web applications for clients across multiple sectors",
     "image": "profile_pic.jpg",
-    "bio": "Currently serving in the United States Air Force, I am also working as a Freelance Web Developer while also pursuing a degree in Software Engineering. As a developer, I am comfortable with Python, JavaScript, ReactJS & HTML/CSS with an expanding comprehension of Java & PHP. Specializing in web development, I am also growing my knowledge in machine learning & data analytics as I plan to transition into this sector of Software Engineering upon my departure from the military.",
-    "bioCont": "In addition to my work & studies, I love fitness, traveling, reading, and I also have a new found passion for writing which you can read more about in my blog.",
+    "bio": "Currently working as a Freelance Web Developer, I specialize in JavaScript & ReactJS. As I progress through my BASc in Applied Computing with an Artificial Intelligence emphasis, I plan to pivot away from Web Development to pursue a career in Machine Learning Engineering. Regarding ML & Data Engineering, the technologies I am most versed in are Python, Java, and SQL.",
+    "bioCont": "In November of 2023, I will be transitioning out of the United States Air Force, and in December, I will be obtaining my Bachelors of Applied Science. Upon my departure from the military, I plan to pursue a full-time Artificial Intelligence/Machine Learning Engineering role.",
+    "bioExt": "In addition to my work & studies, I love fitness, traveling, reading, and I also have a new found passion for writing which you can read more about in my blog.",
     "contactmessage": "Do you have a project for me? Think I'd be a great fit for your team? I'd love to hear from you, contact me via email or by using the form below if you'd like to get in contact with me.",
     "email": "jarrede20@gmail.com",
     "phone": "(314) 398-3570",
@@ -175,11 +176,11 @@
     "testimonials": [
       {
         "text": "Jarred was an absolute pleasure to work with! His communication skills were amazing and he made sure he understood exactly what I was asking for before beginning the project. Throughout the process, the communication never slowed down which ended up with me receiving an amazing website prior to the agreed deadline. HIGHLY recommend.",
-        "user": "Freelance Client, Malinda Williams"
+        "user": "Freelance Client, Michelle Wallace"
       },
       {
         "text":"I was looking for a way to move my online clothing store from just social media being housed on a website but I had no idea where to start. I told JT about what I was thinking and he handled it all from there. After providing 3 diverse templates for me to choose from, he immediately followed up with great work and letting me customize it along the way.",
-        "user": "Nathan Graham"
+        "user": "Client, Nathan Graham"
       }
 
     ]
